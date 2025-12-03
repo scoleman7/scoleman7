@@ -9,7 +9,7 @@ OS Ticket: Post Installation
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/scoleman7/Azure/tree/main)
+
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
   - [Preparing Active Directory Infrastruture](https://github.com/scoleman7/Azure)
 <h2>🤳Connect with me:</h2>
